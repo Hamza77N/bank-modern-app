@@ -9,7 +9,6 @@ import {
   CTA,
   Stats,
   Footer,
-  Testimonials,
   Hero,
 } from "./components";
 
@@ -32,7 +31,6 @@ const App = () => (
         <Business />
         <Billing />
         <CardDeal />
-        <Testimonials />
         <Clients />
         <CTA />
         <Footer />
